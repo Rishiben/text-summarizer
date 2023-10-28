@@ -1,0 +1,1 @@
+To run the app: run main.py and a webpage will open in browser if not then goto http://127.0.0.1:5000/

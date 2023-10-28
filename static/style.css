@@ -1,0 +1,64 @@
+/* Apply Poppins font to body and heading */
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align: center;
+}
+
+/* Style for the form container */
+form {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f7f7f7;
+    border-radius: 10px;
+    box-shadow: 0px 0px 20px rgba(0,0,0,0.2);
+}
+
+/* Style for the textarea */
+textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border-radius: 5px;
+    border: none;
+    background-color: #e0e0e0;
+}
+
+/* Style for the range input */
+input[type="range"] {
+    width: 100%;
+    margin: 10px 0;
+}
+
+/* Style for the button */
+button {
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+/* Hover state for the button */
+button:hover {
+    background-color: #388e3c;
+}
+
+.box {
+    width: 800px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.button-container {
+    text-align: center;
+}
